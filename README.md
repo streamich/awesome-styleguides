@@ -1,3 +1,7 @@
+<div align="center">
+<img width="500" height="350" src="https://gitcdn.xyz/repo/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
+</div>
+
 # Styleguides
 
 - [AirBnB Design](https://airbnb.design)
