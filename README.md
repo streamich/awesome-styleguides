@@ -1,4 +1,4 @@
-# awesome-styleguides
+# Styleguides
 
 - [AirBnB Design](https://airbnb.design)
 - [Atlassian Design](https://atlassian.design/)
