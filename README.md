@@ -29,33 +29,34 @@
 <br />
 <br />
 
-- [__Coursera__](https://building.coursera.org/coursera-ui/) &mdash; Coursera UI component library.
-- [__Grommet__](https://storybook.grommet.io/) &mdash; Styled components for Reactjs.
-- [__Wix Style React__](https://wix.github.io/wix-style-react/) &mdash; Components that conform to Wix Style.
-- [__Carbon Components__](http://react.carbondesignsystem.com) &mdash; IBM's Carbon Design System implemented in React.
-- [__Lonely Planet__](https://lonelyplanet.github.io/backpack-ui/) &mdash; All the tools you need to build the Lonely Planet UI experience.
+
 - [__Airbnb Dates__](http://airbnb.io/react-dates/) &mdash; An internationalizable, mobile-friendly datepicker library for the web.
-- [__Uber React-Vis__](https://uber.github.io/react-vis/website/dist/storybook/index.html) &mdash; A composable charting library.
-- [__Buffer Components__](https://bufferapp.github.io/buffer-components/) &mdash; A collection of Buffer UI React components.
 - [__Algolia InstantSearch__](https://community.algolia.com/react-instantsearch/storybook/) &mdash; Lightning-fast, hyper-configurable search.
-- [__Artsy Force__](https://artsy.github.io/reaction/) &mdash; Artsy's "Force" component library.
-- [__React Native Web__](https://necolas.github.io/react-native-web/storybook/) &mdash; Storybook demo for React Native Web.
-- [__Griddle__](undefined) &mdash; An ultra customizable datagrid component for React.
-- [__Tachyons Components__](https://www.tachyonstemplates.com/components/) &mdash; A searchable directory of Tachyons Components.
 - [__Appbase Maps__](https://opensource.appbase.io/playground/) &mdash; A storybook playground for ReactiveMaps and ReactiveSearch.
+- [__Artsy Force__](https://artsy.github.io/reaction/) &mdash; Artsy's "Force" component library.
+- [__Buffer Components__](https://bufferapp.github.io/buffer-components/) &mdash; A collection of Buffer UI React components.
+- [__Carbon Components__](http://react.carbondesignsystem.com) &mdash; IBM's Carbon Design System implemented in React.
+- [__Cosmos__](https://auth0-cosmos.now.sh/sandbox/) &mdash; A Design System For Auth0 Products.
+- [__Coursera__](https://building.coursera.org/coursera-ui/) &mdash; Coursera UI component library.
+- [__Fyndiq__](https://fyndiq.github.io/fyndiq-ui/) &mdash; Fyndiq UI Component library.
+- [__Griddle__](undefined) &mdash; An ultra customizable datagrid component for React.
+- [__Grommet__](https://storybook.grommet.io/) &mdash; Styled components for Reactjs.
+- [__GumGum__](https://storybook.gumgum.com) &mdash; GumGum (Computer Vision Company) Component library.
+- [__Hack Oregon__](https://hackoregon.github.io/component-library/) &mdash; Official component library and storybook for Hack Oregon.
+- [__Lonely Planet__](https://lonelyplanet.github.io/backpack-ui/) &mdash; All the tools you need to build the Lonely Planet UI experience.
+- [__Lucid UI__](https://appnexus.github.io/lucid/) &mdash; Component and charts library by AppNexus.
+- [__MockingBot__](https://ibot.guide) &mdash; MockingBot UI component library(ibot).
 - [__Quran.com__](https://quran.github.io/common-components/) &mdash; Component library for Quran.com, Quranicaudio.com and Salah.com.
+- [__Tachyons Components__](https://www.tachyonstemplates.com/components/) &mdash; A searchable directory of Tachyons Components.
 - [__TerraEclipse__](https://terraeclipse.github.io/react-stack/) &mdash; React components for TerraEclipse, a political technology and strategy firm.
 - [__React Event Timeline__](https://rcdexta.github.io/react-event-timeline/) &mdash; Event timeline component.
-- [__Semantic-UI__](https://white-rabbit-japan.github.io/Semantic-UI-React-Storybook/) &mdash; Storybook for Semantic-UI React components.
-- [__Hack Oregon__](https://hackoregon.github.io/component-library/) &mdash; Official component library and storybook for Hack Oregon.
-- [__TodoMVC with Specs__](https://thorjarhun.github.io/react-storybook-todolist/) &mdash; Todo app Storybook with built-in unit tests.
+- [__React Native Web__](https://necolas.github.io/react-native-web/storybook/) &mdash; Storybook demo for React Native Web.
 - [__React SVG Pan Zoom__](https://chrvadala.github.io/react-svg-pan-zoom/) &mdash; A React component that adds pan and zoom features to SVG.
-- [__Fyndiq__](https://fyndiq.github.io/fyndiq-ui/) &mdash; Fyndiq UI Component library.
-- [__GumGum__](https://storybook.gumgum.com) &mdash; GumGum (Computer Vision Company) Component library.
-- [__Lucid UI__](https://appnexus.github.io/lucid/) &mdash; Component and charts library by AppNexus.
+- [__Semantic-UI__](https://white-rabbit-japan.github.io/Semantic-UI-React-Storybook/) &mdash; Storybook for Semantic-UI React components.
+- [__TodoMVC with Specs__](https://thorjarhun.github.io/react-storybook-todolist/) &mdash; Todo app Storybook with built-in unit tests.
 - [__Trunx__](https://g14n.info/trunx) &mdash; Super Saiyan react components, son of awesome Bulma.
-- [__Cosmos__](https://auth0-cosmos.now.sh/sandbox/) &mdash; A Design System For Auth0 Products.
-- [__MockingBot__](https://ibot.guide) &mdash; MockingBot UI component library(ibot).
+- [__Uber React-Vis__](https://uber.github.io/react-vis/website/dist/storybook/index.html) &mdash; A composable charting library.
+- [__Wix Style React__](https://wix.github.io/wix-style-react/) &mdash; Components that conform to Wix Style.
 
 <br />
 <br />
