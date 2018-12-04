@@ -5,6 +5,9 @@
 
 <h1 align="center"><sub>Styleguides</sub></h1>
 
+<br />
+<br />
+
 - [__AirBnB Design__](https://airbnb.design)
 - [__Atlassian Design__](https://atlassian.design/) &mdash; Design, develop, and deliver.
 - [__Disqus__](https://disqus.com/pages/style-guide/) &mdash; colors, typogrophy and Disqus logo.
@@ -17,8 +20,14 @@
 - [__Yelp__](http://www.yelp.com/styleguide) &mdash; Yelp Styleguide.
 - [__Primer__](https://primer.style/) &mdash; the CSS design system that powers GitHub.
 
+<br />
+<br />
+
 
 <h1 align="center"><sub>Storybooks</sub></h1>
+
+<br />
+<br />
 
 - [__Coursera__](https://building.coursera.org/coursera-ui/) &mdash; Coursera UI component library.
 - [__Grommet__](https://storybook.grommet.io/) &mdash; Styled components for Reactjs.
@@ -47,3 +56,6 @@
 - [__Trunx__](https://g14n.info/trunx) &mdash; Super Saiyan react components, son of awesome Bulma.
 - [__Cosmos__](https://auth0-cosmos.now.sh/sandbox/) &mdash; A Design System For Auth0 Products.
 - [__MockingBot__](https://ibot.guide) &mdash; MockingBot UI component library(ibot).
+
+<br />
+<br />
