@@ -14,7 +14,7 @@
 - [__Duo Lingo__](https://www.duolingo.com/design/) &mdash; Duo Lingo design.
 - [__IBM Design__](https://www.ibm.com/design/language/resources/) &mdash; Tools that help you work smarter, not harder.
 - [__MailChimp__](http://ux.mailchimp.com/patterns) &mdash; The Pattern Library.
-- [__MarvelApp__](https://marvelapp.com/styleguide/overview/introduction)
+- [__MarvelApp__](https://marvelapp.com/styleguide/overview/introduction) &mdash; MarvelApp design system.
 - [__Material Design__](https://material.io/design) &mdash; Create intuitive and beautiful products with Material Design.
 - [__Mozilla__](https://www.mozilla.org/en-US/styleguide/) &mdash; Style Guides.
 - [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
