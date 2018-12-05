@@ -59,12 +59,29 @@
 - [__Uber React-Vis__](https://uber.github.io/react-vis/website/dist/storybook/index.html) &mdash; A composable charting library.
 - [__Wix Style React__](https://wix.github.io/wix-style-react/) &mdash; Components that conform to Wix Style.
 
+
 <br />
 <br />
 
 
 <h1 align="center"><sub>Resources</sub></h1>
 
+<br />
+<br />
+
 
 - [__AirBnB Design__](https://airbnb.design)
 - [__ArtLebedev__](https://www.artlebedev.com/)
+
+
+<br />
+<br />
+
+
+<h1 align="center"><sub>Videos</sub></h1>
+
+<br />
+<br />
+
+
+- [When We Use Systems](https://vimeo.com/262959714) &mdash; [*Karri Saarinen*](https://twitter.com/karrisaarinen?lang=en)
