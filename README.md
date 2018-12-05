@@ -16,7 +16,7 @@
 - [__MailChimp__](http://ux.mailchimp.com/patterns) &mdash; The Pattern Library.
 - [__MarvelApp__](https://marvelapp.com/styleguide/overview/introduction)
 - [__Material Design__](https://material.io/design) &mdash; Create intuitive and beautiful products with Material Design.
-- [  Mozilla  ](https://www.mozilla.org/en-US/styleguide/)
+- [__Mozilla__](https://www.mozilla.org/en-US/styleguide/)
 - [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
 - [__Yelp__](http://www.yelp.com/styleguide) &mdash; Yelp Styleguide.
 - [__Primer__](https://primer.style/) &mdash; the CSS design system that powers GitHub.
