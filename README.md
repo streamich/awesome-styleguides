@@ -86,3 +86,18 @@
 
 - [System of Systems](https://vimeo.com/262959101) &mdash; [*Nathan Curtis*](https://twitter.com/nathanacurtis)
 - [When We Use Systems](https://vimeo.com/262959714) &mdash; [*Karri Saarinen*](https://twitter.com/karrisaarinen?lang=en)
+
+
+<br />
+<br />
+
+
+<h1 align="center"><sub>Comparators</sub></h1>
+
+<br />
+<br />
+
+
+- [__Adele__](https://adele.uxpin.com/) &mdash; Repository of publicly available design systems and pattern libraries by [*UXPin*](https://www.uxpin.com/).
+- [`awesome-design-systems`](https://github.com/alexpate/awesome-design-systems) &mdash; A collection of awesome design systems.
+- [http://styleguides.io/](http://styleguides.io/) &mdash; Website Style Guide Resources.
