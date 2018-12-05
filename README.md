@@ -84,4 +84,5 @@
 <br />
 
 
+- [System of Systems](https://vimeo.com/262959101) &mdash; [*Nathan Curtis*](https://twitter.com/nathanacurtis)
 - [When We Use Systems](https://vimeo.com/262959714) &mdash; [*Karri Saarinen*](https://twitter.com/karrisaarinen?lang=en)
