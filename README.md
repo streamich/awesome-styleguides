@@ -100,4 +100,6 @@
 
 - [__Adele__](https://adele.uxpin.com/) &mdash; Repository of publicly available design systems and pattern libraries by [*UXPin*](https://www.uxpin.com/).
 - [`awesome-design-systems`](https://github.com/alexpate/awesome-design-systems) &mdash; A collection of awesome design systems.
+- [__Design System Repo__](https://designsystemsrepo.com/design-systems/) &mdash; Design Systems Gallery
 - [styleguides.io](http://styleguides.io/) &mdash; Website Style Guide Resources.
+
