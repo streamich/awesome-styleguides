@@ -12,6 +12,7 @@
 - [__Atlassian Design__](https://atlassian.design/) &mdash; Design, develop, and deliver.
 - [__Disqus__](https://disqus.com/pages/style-guide/) &mdash; colors, typogrophy and Disqus logo.
 - [__Duo Lingo__](https://www.duolingo.com/design/) &mdash; Duo Lingo design.
+- [__Helpscout__](https://style.helpscout.com/) &mdash; Helpscout style guide.
 - [__IBM Design__](https://www.ibm.com/design/language/resources/) &mdash; Tools that help you work smarter, not harder.
 - [__MailChimp__](http://ux.mailchimp.com/patterns) &mdash; The Pattern Library.
 - [__MarvelApp__](https://marvelapp.com/styleguide/overview/introduction) &mdash; MarvelApp design system.
