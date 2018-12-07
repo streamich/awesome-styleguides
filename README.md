@@ -22,6 +22,7 @@
 - [__Primer__](https://primer.style/) &mdash; the CSS design system that powers GitHub.
 - [__SAP Fiori Fundamentals__](https://sap.github.io/fundamental/) &mdash; A light-weight presentation layer that can be used with your UI framework of choice.
 - [__Wikimedia__](https://design.wikimedia.org/style-guide/) &mdash; Design style guide for Wikipedia and other open-knowledge projects.
+- [__Helpscout__](https://style.helpscout.com/) &mdash; Helpscout style guide.
 
 <br />
 <br />
