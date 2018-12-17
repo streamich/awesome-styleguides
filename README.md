@@ -18,11 +18,11 @@
 - [__MarvelApp__](https://marvelapp.com/styleguide/overview/introduction) &mdash; MarvelApp design system.
 - [__Material Design__](https://material.io/design) &mdash; Create intuitive and beautiful products with Material Design.
 - [__Mozilla__](https://www.mozilla.org/en-US/styleguide/) &mdash; Style Guides.
-- [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
-- [__Yelp__](http://www.yelp.com/styleguide) &mdash; Yelp Styleguide.
 - [__Primer__](https://primer.style/) &mdash; the CSS design system that powers GitHub.
+- [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
 - [__SAP Fiori Fundamentals__](https://sap.github.io/fundamental/) &mdash; A light-weight presentation layer that can be used with your UI framework of choice.
 - [__Wikimedia__](https://design.wikimedia.org/style-guide/) &mdash; Design style guide for Wikipedia and other open-knowledge projects.
+- [__Yelp__](http://www.yelp.com/styleguide) &mdash; Yelp Styleguide.
 
 <br />
 <br />
