@@ -10,6 +10,7 @@
 
 
 - [__Atlassian Design__](https://atlassian.design/) &mdash; Design, develop, and deliver.
+- [__Auth0__](https://auth0-cosmos.now.sh/) &mdash; Cosmos is a Design System to build Auth0 products.
 - [__Disqus__](https://disqus.com/pages/style-guide/) &mdash; colors, typogrophy and Disqus logo.
 - [__Duo Lingo__](https://www.duolingo.com/design/) &mdash; Duo Lingo design.
 - [__Helpscout__](https://style.helpscout.com/) &mdash; Helpscout style guide.
