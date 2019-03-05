@@ -119,4 +119,4 @@
 <br />
 
 
-- [`eact-sketchapp`](https://github.com/airbnb/react-sketchapp) &mdash; render React components to Sketch
+- [`react-sketchapp`](https://github.com/airbnb/react-sketchapp) &mdash; render React components to Sketch
