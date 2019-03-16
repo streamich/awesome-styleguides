@@ -10,6 +10,7 @@
 
 
 - [__Atlassian Design__](https://atlassian.design/) &mdash; Design, develop, and deliver.
+- [__Audi__](https://www.audi.com/ci/en/intro/brand-appearance.html) &mdash; Attitude Brand Appearance.
 - [__Auth0__](https://auth0-cosmos.now.sh/) &mdash; Cosmos is a Design System to build Auth0 products.
 - [__Disqus__](https://disqus.com/pages/style-guide/) &mdash; colors, typogrophy and Disqus logo.
 - [__Duo Lingo__](https://www.duolingo.com/design/) &mdash; Duo Lingo design.
@@ -22,10 +23,9 @@
 - [__Material UI__](https://material-ui.com/) &mdash; React components that implement Google's Material Design.
 - [__Mozilla__](https://www.mozilla.org/en-US/styleguide/) &mdash; Style Guides.
 - [__Primer__](https://primer.style/) &mdash; the CSS design system that powers GitHub.
+- [__Royal Canin__](http://developer.royalcanin.com/) &mdash; Royal Canin design system.
 - [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
 - [__SAP Fiori Fundamentals__](https://sap.github.io/fundamental/) &mdash; A light-weight presentation layer that can be used with your UI framework of choice.
-- [__Wikimedia__](https://design.wikimedia.org/style-guide/) &mdash; Design style guide for Wikipedia and other open-knowledge projects.
-- [__Yelp__](http://www.yelp.com/styleguide) &mdash; Yelp Styleguide.
 
 <br />
 <br />
