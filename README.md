@@ -54,7 +54,6 @@
 - [__Quran.com__](https://quran.github.io/common-components/) &mdash; Component library for Quran.com, Quranicaudio.com and Salah.com.
 - [__React Event Timeline__](https://rcdexta.github.io/react-event-timeline/) &mdash; Event timeline component.
 - [__React Native Web__](https://necolas.github.io/react-native-web/storybook/) &mdash; Storybook demo for React Native Web.
-- [__React SVG Pan Zoom__](https://chrvadala.github.io/react-svg-pan-zoom/) &mdash; A React component that adds pan and zoom features to SVG.
 - [__Semantic-UI__](https://white-rabbit-japan.github.io/Semantic-UI-React-Storybook/) &mdash; Storybook for Semantic-UI React components.
 - [__Tachyons Components__](https://www.tachyonstemplates.com/components/) &mdash; A searchable directory of Tachyons Components.
 - [__TerraEclipse__](https://terraeclipse.github.io/react-stack/) &mdash; React components for TerraEclipse, a political technology and strategy firm.
