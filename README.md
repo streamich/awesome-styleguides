@@ -37,7 +37,6 @@
 <br />
 
 
-- [__Airbnb Dates__](http://airbnb.io/react-dates/) &mdash; An internationalizable, mobile-friendly datepicker library for the web.
 - [__Algolia InstantSearch__](https://community.algolia.com/react-instantsearch/storybook/) &mdash; Lightning-fast, hyper-configurable search.
 - [__Appbase Maps__](https://opensource.appbase.io/playground/) &mdash; A storybook playground for ReactiveMaps and ReactiveSearch.
 - [__Artsy Force__](https://artsy.github.io/reaction/) &mdash; Artsy's "Force" component library.
@@ -46,7 +45,6 @@
 - [__Cosmos__](https://auth0-cosmos.now.sh/sandbox/) &mdash; A Design System For Auth0 Products.
 - [__Coursera__](https://building.coursera.org/coursera-ui/) &mdash; Coursera UI component library.
 - [__Fyndiq__](https://fyndiq.github.io/fyndiq-ui/) &mdash; Fyndiq UI Component library.
-- [__Griddle__](undefined) &mdash; An ultra customizable datagrid component for React.
 - [__Grommet__](https://storybook.grommet.io/) &mdash; Styled components for Reactjs.
 - [__GumGum__](https://storybook.gumgum.com) &mdash; GumGum (Computer Vision Company) Component library.
 - [__Hack Oregon__](https://hackoregon.github.io/component-library/) &mdash; Official component library and storybook for Hack Oregon.
