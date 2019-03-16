@@ -56,7 +56,6 @@
 - [__React Native Web__](https://necolas.github.io/react-native-web/storybook/) &mdash; Storybook demo for React Native Web.
 - [__Semantic-UI__](https://white-rabbit-japan.github.io/Semantic-UI-React-Storybook/) &mdash; Storybook for Semantic-UI React components.
 - [__Tachyons Components__](https://www.tachyonstemplates.com/components/) &mdash; A searchable directory of Tachyons Components.
-- [__TerraEclipse__](https://terraeclipse.github.io/react-stack/) &mdash; React components for TerraEclipse, a political technology and strategy firm.
 - [__TodoMVC with Specs__](https://thorjarhun.github.io/react-storybook-todolist/) &mdash; Todo app Storybook with built-in unit tests.
 - [__Trunx__](https://g14n.info/trunx) &mdash; Super Saiyan react components, son of awesome Bulma.
 - [__Uber React-Vis__](https://uber.github.io/react-vis/website/dist/storybook/index.html) &mdash; A composable charting library.
