@@ -22,6 +22,7 @@
 - [__Material Design__](https://material.io/design) &mdash; Create intuitive and beautiful products with Material Design.
 - [__Material UI__](https://material-ui.com/) &mdash; React components that implement Google's Material Design.
 - [__Mozilla__](https://www.mozilla.org/en-US/styleguide/) &mdash; Style Guides.
+- [__Pajamas__](https://design.gitlab.com/) &mdash; Resources, components, and design guidelines behind GitLab.
 - [__Primer__](https://primer.style/) &mdash; the CSS design system that powers GitHub.
 - [__Royal Canin__](http://developer.royalcanin.com/) &mdash; Royal Canin design system.
 - [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
