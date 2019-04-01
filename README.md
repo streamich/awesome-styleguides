@@ -23,6 +23,7 @@
 - [__Material UI__](https://material-ui.com/) &mdash; React components that implement Google's Material Design.
 - [__Mozilla__](https://www.mozilla.org/en-US/styleguide/) &mdash; Style Guides.
 - [__Pajamas__](https://design.gitlab.com/) &mdash; Resources, components, and design guidelines behind GitLab.
+- [Priceline One](https://pricelinelabs.github.io/) &mdash; Priceline Design System.
 - [__Primer__](https://primer.style/) &mdash; the CSS design system that powers GitHub.
 - [__Royal Canin__](http://developer.royalcanin.com/) &mdash; Royal Canin design system.
 - [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
