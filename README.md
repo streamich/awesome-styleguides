@@ -25,10 +25,11 @@
 - [__Mozilla__](https://www.mozilla.org/en-US/styleguide/) &mdash; Style Guides.
 - [__Nebular__](https://akveo.github.io/nebular/) &mdash; Angular 8: UI Kit.
 - [__Pajamas__](https://design.gitlab.com/) &mdash; Resources, components, and design guidelines behind GitLab.
+- [__Pluralsight Design__](https://design-system.pluralsight.com/) &mdash; Pluralsight design system.
+- [__Polaris__](https://polaris.shopify.com/) &mdash; Shopify’s product component library.
 - [__Priceline One__](https://pricelinelabs.github.io/) &mdash; Priceline Design System.
 - [__Primer__](https://primer.style/) &mdash; the CSS design system that powers GitHub.
 - [__Royal Canin__](http://developer.royalcanin.com/) &mdash; Royal Canin design system.
-- [__Pluralsight Design__](https://design-system.pluralsight.com/) &mdash; Pluralsight design system.
 - [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
 - [__SAP Fiori Fundamentals__](https://sap.github.io/fundamental/) &mdash; A light-weight presentation layer that can be used with your UI framework of choice.
 
