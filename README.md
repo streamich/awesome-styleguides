@@ -34,6 +34,7 @@
 - [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
 - [__SAP Fiori Fundamentals__](https://sap.github.io/fundamental/) &mdash; A light-weight presentation layer that can be used with your UI framework of choice.
 - [__Semantic UI__](https://semantic-ui.com/) &mdash; User Interface is the language of the web.
+- [__Starbucks Pattern Library__](https://www.starbucks.com/developer/pattern-library/) &mdash; Building blocks of app.starbucks.com
 
 <br />
 <br />
