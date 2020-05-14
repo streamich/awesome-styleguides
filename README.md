@@ -54,6 +54,7 @@
 - [__Cosmos__](https://auth0-cosmos.now.sh/sandbox/) &mdash; A Design System For Auth0 Products.
 - [__Coursera__](https://building.coursera.org/coursera-ui/) &mdash; Coursera UI component library.
 - [__Fyndiq__](https://fyndiq.github.io/fyndiq-ui/) &mdash; Fyndiq UI Component library.
+- [__Grafana UI__](https://github.com/grafana/grafana/tree/master/packages/grafana-ui) &mdash; Grafana UI components library.
 - [__Grommet__](https://storybook.grommet.io/) &mdash; Styled components for Reactjs.
 - [__GumGum__](https://storybook.gumgum.com) &mdash; GumGum (Computer Vision Company) Component library.
 - [__Hack Oregon__](https://hackoregon.github.io/component-library/) &mdash; Official component library and storybook for Hack Oregon.
