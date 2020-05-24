@@ -9,6 +9,7 @@
 <br />
 
 
+- [__Apple Human Interface Guidelines__](https://developer.apple.com/design/human-interface-guidelines/) &mdash; Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 - [__Atlassian Design__](https://atlassian.design/) &mdash; Design, develop, and deliver.
 - [__Audi__](https://www.audi.com/ci/en/intro/brand-appearance.html) &mdash; Attitude Brand Appearance.
 - [__Auth0__](https://auth0-cosmos.now.sh/) &mdash; Cosmos is a Design System to build Auth0 products.
