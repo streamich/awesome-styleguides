@@ -36,6 +36,7 @@
 - [__SAP Fiori Fundamentals__](https://sap.github.io/fundamental/) &mdash; A light-weight presentation layer that can be used with your UI framework of choice.
 - [__Semantic UI__](https://semantic-ui.com/) &mdash; User Interface is the language of the web.
 - [__Starbucks Pattern Library__](https://www.starbucks.com/developer/pattern-library/) &mdash; Building blocks of app.starbucks.com
+- [__Thumbprint__](https://thumbprint.design/) &mdash; Assets for building high-quality, consistent user experiences at Thumbtack.
 
 <br />
 <br />
