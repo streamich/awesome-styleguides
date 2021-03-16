@@ -71,7 +71,7 @@
 - [__TodoMVC with Specs__](https://thorjarhun.github.io/react-storybook-todolist/) &mdash; Todo app Storybook with built-in unit tests.
 - [__Trunx__](https://g14n.info/trunx) &mdash; Super Saiyan react components, son of awesome Bulma.
 - [__Uber React-Vis__](https://uber.github.io/react-vis/website/dist/storybook/index.html) &mdash; A composable charting library.
-- [__Wix Style React__](https://wix.github.io/wix-style-react/) &mdash; Components that conform to Wix Style.
+- [__Wix Style React__](https://github.com/wix/wix-style-react) &mdash; Components that conform to Wix Style.
 
 
 <br />
