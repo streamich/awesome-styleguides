@@ -22,6 +22,7 @@
 - [__MarvelApp__](https://marvelapp.com/styleguide/overview/introduction) &mdash; MarvelApp design system.
 - [__Material Design__](https://material.io/design) &mdash; Create intuitive and beautiful products with Material Design.
 - [__Material UI__](https://material-ui.com/) &mdash; React components that implement Google's Material Design.
+- [__Microsoft Fluent Design__](https://www.microsoft.com/design/fluent/) &mdash; No need to start from scratch.
 - [__Microsoft UWP Design and UI__](https://docs.microsoft.com/en-us/windows/uwp/design/) &mdash; Design and code Windows apps
 - [__Mozilla__](https://www.mozilla.org/en-US/styleguide/) &mdash; Style Guides.
 - [__Nebular__](https://akveo.github.io/nebular/) &mdash; Angular 8: UI Kit.
