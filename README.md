@@ -98,8 +98,8 @@
 <br />
 
 
-- [System of Systems](https://vimeo.com/262959101) &mdash; [*Nathan Curtis*](https://twitter.com/nathanacurtis)
-- [When We Use Systems](https://vimeo.com/262959714) &mdash; [*Karri Saarinen*](https://twitter.com/karrisaarinen?lang=en)
+- [__System of Systems__](https://vimeo.com/262959101) &mdash; [*Nathan Curtis*](https://twitter.com/nathanacurtis)
+- [__When We Use Systems__](https://vimeo.com/262959714) &mdash; [*Karri Saarinen*](https://twitter.com/karrisaarinen?lang=en)
 
 
 <br />
@@ -113,9 +113,9 @@
 
 
 - [__Adele__](https://adele.uxpin.com/) &mdash; Repository of publicly available design systems and pattern libraries by [*UXPin*](https://www.uxpin.com/).
-- [`awesome-design-systems`](https://github.com/alexpate/awesome-design-systems) &mdash; A collection of awesome design systems.
+- [__awesome-design-systems__](https://github.com/alexpate/awesome-design-systems) &mdash; A collection of awesome design systems.
 - [__Design System Repo__](https://designsystemsrepo.com/design-systems/) &mdash; Design Systems Gallery
-- [styleguides.io](http://styleguides.io/) &mdash; Website Style Guide Resources.
+- [__styleguides.io__](http://styleguides.io/) &mdash; Website Style Guide Resources.
 
 
 <br />
@@ -128,4 +128,4 @@
 <br />
 
 
-- [`react-sketchapp`](https://github.com/airbnb/react-sketchapp) &mdash; render React components to Sketch
+- [__react-sketchapp__](https://github.com/airbnb/react-sketchapp) &mdash; render React components to Sketch
