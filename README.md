@@ -8,7 +8,7 @@
 <br />
 <br />
 
-
+- [__AgnosticUI__](https://www.agnosticui.com/) &mdash; Accessible React component primitives that also work with Vue 3, Svelte, and Angular.
 - [__Apple Human Interface Guidelines__](https://developer.apple.com/design/human-interface-guidelines/) &mdash; Information for designing apps that integrate seamlessly with Apple platforms.
 - [__Atlassian Design__](https://atlassian.design/) &mdash; Design, develop, and deliver.
 - [__Audi__](https://www.audi.com/ci/en/intro/brand-appearance.html) &mdash; Attitude Brand Appearance.
