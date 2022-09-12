@@ -68,6 +68,7 @@
 - [__React Event Timeline__](https://rcdexta.github.io/react-event-timeline/) &mdash; Event timeline component.
 - [__React Native Web__](https://necolas.github.io/react-native-web/storybook/) &mdash; Storybook demo for React Native Web.
 - [__React Strap__](https://reactstrap.github.io/) &mdash; Simple React Bootstrap 5 components.
+- [__React Suite__](https://rsuitejs.com/) &mdash; A suite of React components.
 - [__Semantic-UI__](https://white-rabbit-japan.github.io/Semantic-UI-React-Storybook/) &mdash; Storybook for Semantic-UI React components.
 - [__Tachyons Components__](https://www.tachyonstemplates.com/components/) &mdash; A searchable directory of Tachyons Components.
 - [__TodoMVC with Specs__](https://thorjarhun.github.io/react-storybook-todolist/) &mdash; Todo app Storybook with built-in unit tests.
