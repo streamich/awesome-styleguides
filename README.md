@@ -15,8 +15,9 @@
 - [__Auth0__](https://auth0-cosmos.now.sh/) &mdash; Cosmos is a Design System to build Auth0 products.
 - [__Disqus__](https://disqus.com/pages/style-guide/) &mdash; colors, typogrophy and Disqus logo.
 - [__Duo Lingo__](https://www.duolingo.com/design/) &mdash; Duo Lingo design.
-- [__Elastic UI__](https://elastic.github.io/eui/#/) &mdash; Elastic UI Framework
-- [__Gestalt__](https://gestalt.pinterest.systems/home) &mdash; Pinterest’s design system
+- [__Elastic UI__](https://elastic.github.io/eui/#/) &mdash; Elastic UI Framework.
+- [__Evergreen__](https://evergreen.segment.com/) &mdash; Segment’s design system.
+- [__Gestalt__](https://gestalt.pinterest.systems/home) &mdash; Pinterest’s design system.
 - [__Helpscout__](https://style.helpscout.com/) &mdash; Helpscout style guide.
 - [__IBM Design__](https://www.ibm.com/design/language/resources/) &mdash; Tools that help you work smarter, not harder.
 - [__MailChimp__](http://ux.mailchimp.com/patterns) &mdash; The Pattern Library.
