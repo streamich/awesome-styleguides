@@ -9,7 +9,7 @@
 <br />
 
 - [__AgnosticUI__](https://www.agnosticui.com/) &mdash; Accessible CSS component primitives that work with React, Vue 3, Svelte, and Angular.
-- [__Apple Human Interface Guidelines__](https://developer.apple.com/design/human-interface-guidelines/) &mdash; Information for designing apps that integrate seamlessly with Apple platforms.
+- [__Apple Human Interface Guidelines__](https://developer.apple.com/design/human-interface-guidelines/) &mdash; Designing apps that integrate seamlessly with Apple platforms.
 - [__Atlassian Design__](https://atlassian.design/) &mdash; Design, develop, and deliver.
 - [__Audi__](https://www.audi.com/ci/en/intro/brand-appearance.html) &mdash; Attitude Brand Appearance.
 - [__Auth0__](https://auth0-cosmos.now.sh/) &mdash; Cosmos is a Design System to build Auth0 products.
@@ -38,7 +38,8 @@
 - [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
 - [__SAP Fiori Fundamentals__](https://sap.github.io/fundamental/) &mdash; A light-weight presentation layer that can be used with your UI framework of choice.
 - [__Semantic UI__](https://semantic-ui.com/) &mdash; User Interface is the language of the web.
-- [__Starbucks Pattern Library__](https://www.starbucks.com/developer/pattern-library/) &mdash; Building blocks of app.starbucks.com
+- [__Starbucks Pattern Library__](https://www.starbucks.com/developer/pattern-library/) &mdash; Building blocks of app.starbucks.com.
+- [__Flowbite__](https://flowbite.com/) &mdash; Components on top of Tailwind CSS
 - [__Thumbprint__](https://thumbprint.design/) &mdash; Assets for building high-quality, consistent user experiences at Thumbtack.
 
 <br />
