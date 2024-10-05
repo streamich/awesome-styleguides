@@ -11,7 +11,7 @@
 - [__AgnosticUI__](https://www.agnosticui.com/) &mdash; Accessible CSS component primitives that work with React, Vue 3, Svelte, and Angular.
 - [__Apple Human Interface Guidelines__](https://developer.apple.com/design/human-interface-guidelines/) &mdash; Designing apps that integrate seamlessly with Apple platforms.
 - [__Atlassian Design__](https://atlassian.design/) &mdash; Design, develop, and deliver.
-- [__Audi__](https://www.audi.com/ci/en/intro/brand-appearance.html) &mdash; Attitude Brand Appearance.
+- [__Audi__](https://styleguide.audi.com/) &mdash; Attitude Brand Appearance.
 - [__Auth0__](https://auth0-cosmos.now.sh/) &mdash; Cosmos is a Design System to build Auth0 products.
 - [__Disqus__](https://disqus.com/pages/style-guide/) &mdash; colors, typogrophy and Disqus logo.
 - [__Duo Lingo__](https://www.duolingo.com/design/) &mdash; Duo Lingo design.
