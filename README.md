@@ -40,6 +40,7 @@
 - [__Semantic UI__](https://semantic-ui.com/) &mdash; User Interface is the language of the web.
 - [__Starbucks Pattern Library__](https://www.starbucks.com/developer/pattern-library/) &mdash; Building blocks of app.starbucks.com.
 - [__Flowbite__](https://flowbite.com/) &mdash; Components on top of Tailwind CSS
+- [__Tamagui__](https://tamagui.dev/) &mdash; A style library for React and/or React Native with a large typed superset of the React Native style API
 - [__Thumbprint__](https://thumbprint.design/) &mdash; Assets for building high-quality, consistent user experiences at Thumbtack.
 
 <br />
