@@ -41,6 +41,8 @@
 - [__Flowbite__](https://flowbite.com/) &mdash; Components on top of Tailwind CSS
 - [__Tamagui__](https://tamagui.dev/) &mdash; A style library for React and/or React Native with a large typed superset of the React Native style API
 - [__Thumbprint__](https://thumbprint.design/) &mdash; Assets for building high-quality, consistent user experiences at Thumbtack.
+- [__Zag__](https://zagjs.com/) &mdash; UI components powered by Finite State Machines.
+
 
 <br />
 <br />
