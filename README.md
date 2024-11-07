@@ -34,6 +34,7 @@
 - [__Polaris__](https://polaris.shopify.com/) &mdash; Shopify’s product component library.
 - [__Priceline One__](https://pricelinelabs.github.io/) &mdash; Priceline Design System.
 - [__Primer__](https://primer.style/) &mdash; the CSS design system that powers GitHub.
+- [__Radix UI__](https://www.radix-ui.com) &mdash; an open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required.
 - [__Royal Canin__](http://developer.royalcanin.com/) &mdash; Royal Canin design system.
 - [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
 - [__SAP Fiori Fundamentals__](https://sap.github.io/fundamental/) &mdash; A light-weight presentation layer that can be used with your UI framework of choice.
