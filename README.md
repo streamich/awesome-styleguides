@@ -40,8 +40,9 @@
 - [__SAP Fiori Fundamentals__](https://sap.github.io/fundamental/) &mdash; A light-weight presentation layer that can be used with your UI framework of choice.
 - [__Semantic UI__](https://semantic-ui.com/) &mdash; User Interface is the language of the web.
 - [__Flowbite__](https://flowbite.com/) &mdash; Components on top of Tailwind CSS
-- [__Tamagui__](https://tamagui.dev/) &mdash; A style library for React and/or React Native with a large typed superset of the React Native style API
+- [__Tamagui__](https://tamagui.dev/) &mdash; A style library for React and/or React Native with a large typed superset of the React Native style API.
 - [__Thumbprint__](https://thumbprint.design/) &mdash; Assets for building high-quality, consistent user experiences at Thumbtack.
+- [__Untitled UI__](https://www.untitledui.com/react/docs/introduction) &mdash; World's largest collection of OSS React components built with Tailwind CSS.
 - [__Zag__](https://zagjs.com/) &mdash; UI components powered by Finite State Machines.
 
 
